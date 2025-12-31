@@ -20,3 +20,6 @@ WHERE job_title_short = 'Data Analyst'
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 
+ 
+
+ 
