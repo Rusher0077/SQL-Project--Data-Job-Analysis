@@ -233,7 +233,7 @@ LIMIT 25;
 - **Tools**: Jira and Confluence knowledge is surprisingly lucrative.
 
 # What I Learned
----
+
 Throughout this project, I strengthened my SQL skills in the following areas:
 
 1. **Complex Query Construction**: I mastered advanced SQL techniques, including complex joins and CTEs.
@@ -241,7 +241,6 @@ Throughout this project, I strengthened my SQL skills in the following areas:
 3. **Analytical Problem Solving**: I translated real-world business questions into actionable SQL queries.
 
 # Conclusion
----
 
 ### Insights
 From the analysis, several general insights emerged:
