@@ -254,3 +254,9 @@ From the analysis, several general insights emerged:
 4. **Skills with Higher Salaries**: Niche and specialized technologies such as SVN and Solidity command higher average salaries, reflecting a market premium for rare and specialized skill sets.
 
 5. **Optimal Skills for Job Market Value**: With both high demand and strong salary outcomes, SQL stands out as one of the most valuable skills for data analysts aiming to maximize their competitiveness in the job market.
+
+# Credits & Inspiration
+
+This project was developed following [Luke Barousse](https://www.youtube.com/@LukeBarousse)’s *SQL for Data Analytics* course. All queries, analysis, and outputs were implemented as demonstrated in the video and reflect the tutorial work.
+
+
